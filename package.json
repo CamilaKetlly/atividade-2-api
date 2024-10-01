@@ -1,0 +1,15 @@
+{
+  "name": "atividade2api",
+  "version": "1.0.0",
+  "description": "atividade 2 api crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "camila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  }
+}
